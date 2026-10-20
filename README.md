@@ -1,4 +1,4 @@
-# Minimal React To-Do App
+# React To-Do App
 
 A clean, hyper-minimalist task management application built with React, HTML, and CSS.
 
