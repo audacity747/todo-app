@@ -15,5 +15,4 @@ A clean, hyper-minimalist task management application built with React, HTML, an
 todo-app/
 ├── index.html
 ├── style.css
-├── script.js
-└── README.md
+└── script.js
